@@ -2,12 +2,12 @@
 
 Currently suggesting topics to follow at founderdating.com
 
-Methods
+Methods utilized:
 
-- PCA to reduce the item to item dimensions
+- PCA to reduce the item to item dimensionality
 
-- Pre-clustered topics each user like to give them two 'areas of interest' each.
+- Pre-clustered topics for each user to give them two 'areas of interest' each.
 
-- Cosine similarity to recommend most similar topics
+- Cosine similarity to recommend related topics
 
 - Manually assigned topics to one area, primary skillsets, do to limited number of possible skillsets
